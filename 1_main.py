@@ -4,3 +4,12 @@ ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha
 
 
 # this is a comment 
+
+
+''' 
+this is a multi line comment
+
+alt + down arrow to move the above line down
+alt + up arrow to move the above line up
+
+''' 
