@@ -11,3 +11,6 @@ f=4
 print(d+f)  #this will give 9.5 as d is float and f is int but python will convert f into float and then do the addition
 #this is implicit typecasting as python is doing it automatically
 
+
+s=int(input("enter a number: "))
+print("i am", s ,"years old")
