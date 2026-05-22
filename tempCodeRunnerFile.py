@@ -1,1 +1,0 @@
-print("the quotient of", a, "and", b, "is", a4)
