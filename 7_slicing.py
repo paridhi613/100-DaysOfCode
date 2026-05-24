@@ -8,3 +8,11 @@ print(fruit[1:4])   #ang
 print(fruit[2:])    #ngo
 print(fruit[:4])   #mang
 print(fruit[:])    #mango
+
+
+
+print(fruit[-1])   #o
+print(fruit[-2])   #g
+#the negative indexing starts from the end and moves to the start
+
+print(fruit[-3:-1])   #an
