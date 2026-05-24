@@ -20,3 +20,13 @@ print(st)    #this whole para will print as it is including the spaces and new l
 #accessing characters in a  string
 print(name[0])   #j
 print(name[1])   #u
+print("\n")
+
+
+
+print("lets go to loops\n")
+
+
+#looping through the strings
+for i in name:
+    print(i)    #will print each character in a new line 
