@@ -14,3 +14,9 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 print(st)    #this whole para will print as it is including the spaces and new lines.
 
+
+
+
+#accessing characters in a  string
+print(name[0])   #j
+print(name[1])   #u
