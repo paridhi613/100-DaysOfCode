@@ -23,3 +23,7 @@ print(len(intro1.center(50)))   #50  the length of the string along with the spa
 
 name = "jimin you got no jams jimin"
 print(name.count("jimin"))   #2  the number of occurrences of "jimin" in the string will be counted and printed
+
+
+hello="hello world!!!!!"
+print(hello.endswith("!!"))   #True  the string end with "!" 
