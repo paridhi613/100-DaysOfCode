@@ -18,3 +18,8 @@ print(len(intro))   #16  the length of the string will be printed
 intro1 = "my name is jimin"
 print(intro1.center(50))   #                 my name is jimin                  the string will be centered within a field of 50 characters
 print(len(intro1.center(50)))   #50  the length of the string along with the spaces will be printed
+
+
+
+name = "jimin you got no jams jimin"
+print(name.count("jimin"))   #2  the number of occurrences of "jimin" in the string will be counted and printed
