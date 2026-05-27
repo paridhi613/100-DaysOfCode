@@ -27,3 +27,7 @@ print(name.count("jimin"))   #2  the number of occurrences of "jimin" in the str
 
 hello="hello world!!!!!"
 print(hello.endswith("!!"))   #True  the string end with "!" 
+
+
+str1="welcome to the console"
+print(str1.endswith("to",4,10))   #True  the substring "to" is found at the end of the specified range (4 to 10) in the string~
