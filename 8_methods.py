@@ -35,4 +35,5 @@ print(str1.endswith("to",4,10))   #True  the substring "to" is found at the end 
 
 
 str2="welcome to the console"
-print(str2.find("to"))   #8  the index of the first occurrence of "to" in the string will be printed
+print(str2.find("to"))         #8  the index of the first occurrence of "to" in the string will be printed
+print(str2.find("toooo"))      #-1  since "toooo" is not found in the string, -1 will be printed
