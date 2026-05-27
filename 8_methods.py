@@ -41,3 +41,4 @@ print(str2.find("toooo"))      #-1  since "toooo" is not found in the string, -1
 
 str3="all is well"
 print(str3.index("is"))         #4  the index of the first occurrence of "is" in the string will be printed
+print(str3.index("issss"))      #error will be shown 
