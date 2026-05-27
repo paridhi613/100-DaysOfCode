@@ -31,3 +31,8 @@ print(hello.endswith("!!"))   #True  the string end with "!"
 
 str1="welcome to the console"
 print(str1.endswith("to",4,10))   #True  the substring "to" is found at the end of the specified range (4 to 10) in the string~
+
+
+
+str2="welcome to the console"
+print(str2.find("to"))   #8  the index of the first occurrence of "to" in the string will be printed
