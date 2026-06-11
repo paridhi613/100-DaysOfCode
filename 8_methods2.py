@@ -17,3 +17,9 @@ print(b.isalpha())       #return true because there are only letters without any
 
 c="123bdkeeieo4567890"
 print(c.isalpha())       #return false because there are numbers with letters
+
+
+
+
+s="jehois"
+print(s.islower())       #return true because all the characters in the string are in lowercase
