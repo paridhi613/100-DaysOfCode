@@ -39,3 +39,8 @@ print(j.isspace())       #return false because there are characters in the strin
 
 n="     "
 print(n.isspace())       #return true because the string contains only spaces and no other characters
+
+
+
+title="The Great Gatsby"
+print(title.istitle())   #return true because the first letter of each word in the string is capitalized and the rest of the letters are lowercase"
