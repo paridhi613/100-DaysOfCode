@@ -27,4 +27,7 @@ print(s.islower())       #return true because all the characters in the string a
 
 
 k="hello we are BTS"
-print(k.isprintable())
+print(k.isprintable())   #return true because all the characters in the string are printable (letters, numbers, spaces, and punctuation)
+
+m="hello world\n"
+print(m.isprintable())   #return false because the string contains a newline character (\n) which is not printable
