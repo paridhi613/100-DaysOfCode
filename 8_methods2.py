@@ -31,3 +31,8 @@ print(k.isprintable())   #return true because all the characters in the string a
 
 m="hello world\n"
 print(m.isprintable())   #return false because the string contains a newline character (\n) which is not printable
+
+
+
+j="hello world"
+print(j.isspace())       #return false because there are characters in the string other than spaces
