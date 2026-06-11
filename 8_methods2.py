@@ -44,3 +44,7 @@ print(n.isspace())       #return true because the string contains only spaces an
 
 title="The Great Gatsby"
 print(title.istitle())   #return true because the first letter of each word in the string is capitalized and the rest of the letters are lowercase"
+
+
+title1="The great Gatsby"
+print(title1.istitle())  #return false because the first letter of the second word
