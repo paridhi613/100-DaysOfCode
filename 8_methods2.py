@@ -14,3 +14,6 @@ print(a.isalpha())       #return false because there are spaces in the string
 
 b="helloworld"
 print(b.isalpha())       #return true because there are only letters without any spaces or special characters
+
+c="123bdkeeieo4567890"
+print(c.isalpha())       #return false because there are numbers with letters
