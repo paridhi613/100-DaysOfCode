@@ -3,3 +3,6 @@ print(str.isalnum())      #return true because strings are only present in conti
 
 str1="hello my name is jungkook"
 print(str1.isalnum())     #return false because there are spaces in the string
+
+str2="hey4hio5hgj"
+print(str2.isalnum())     #return true because there are only letters and numbers without any spaces or special characters
