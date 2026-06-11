@@ -36,3 +36,6 @@ print(m.isprintable())   #return false because the string contains a newline cha
 
 j="hello world"
 print(j.isspace())       #return false because there are characters in the string other than spaces
+
+n="     "
+print(n.isspace())       #return true because the string contains only spaces and no other characters
