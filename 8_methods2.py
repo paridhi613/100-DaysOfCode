@@ -6,3 +6,8 @@ print(str1.isalnum())     #return false because there are spaces in the string
 
 str2="hey4hio5hgj"
 print(str2.isalnum())     #return true because there are only letters and numbers without any spaces or special characters
+
+
+
+a="hello wp"
+print(a.isalpha())       #return false because there are spaces in the string
