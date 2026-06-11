@@ -23,3 +23,8 @@ print(c.isalpha())       #return false because there are numbers with letters
 
 s="jehois"
 print(s.islower())       #return true because all the characters in the string are in lowercase
+
+
+
+k="hello we are BTS"
+print(k.isprintable())
