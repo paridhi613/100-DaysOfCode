@@ -32,3 +32,21 @@ elif num == 0:
     print("number is zero")
 else:
     print("number is positive") 
+
+
+
+
+    print()
+
+
+nym=int(input("enter your nym: "))
+if nym <0:
+    print("nym is negative")
+elif nym == 0:
+    print("nym is zero")
+elif nym == 999:
+    print("special case")
+else:
+    print("nym is positive")
+
+print("i like you")
