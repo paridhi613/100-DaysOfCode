@@ -50,5 +50,13 @@ title1="The great Gatsby"
 print(title1.istitle())  #return false because the first letter of the second word "great" is not capitalized, which violates the title case format.
 
 
+
+
 name="jungkook"
 print(name.swapcase())      #return "JUNGKOOK" because the swapcase() method converts all lowercase letters to uppercase and all uppercase letters to lowercase. 
+
+
+
+
+title3="hey fifa has started"
+print(title3.title())        #return "Hey Fifa Has Started" because the title() method converts the first character of each word to uppercase and the rest of the characters to lowercase.
