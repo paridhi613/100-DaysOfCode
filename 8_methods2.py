@@ -48,3 +48,7 @@ print(title.istitle())   #return true because the first letter of each word in t
 
 title1="The great Gatsby"
 print(title1.istitle())  #return false because the first letter of the second word "great" is not capitalized, which violates the title case format.
+
+
+name="jungkook"
+print(name.swapcase())      #return "JUNGKOOK" because the swapcase() method converts all lowercase letters to uppercase and all uppercase letters to lowercase. 
